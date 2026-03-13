@@ -7,7 +7,7 @@ A high-performance intelligent agent built with **LangChain** and **Streamlit** 
 ---
 
 ## 🖼️ Preview
-![AI Search Agent Interface](photo.png)
+![AI Search Agent Interface](image_6911c2.png)
 
 ---
 
@@ -39,3 +39,17 @@ A high-performance intelligent agent built with **LangChain** and **Streamlit** 
    ```bash
    git clone https://github.com/djain28006/search-engine-using-tools-agents.git
    cd search-engine-using-tools-agents
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+3. **Run the application**:
+   streamlit run app.py
+
+## About the Author
+Danish Jain
+I am an aspiring Python Developer and Machine Learning enthusiast focused on building practical AI-powered solutions.
+
+💼 LinkedIn: https://www.linkedin.com/in/danish-jain-6b9261316/
+
+📂 GitHub: https://github.com/djain28006
+   
