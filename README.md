@@ -7,7 +7,7 @@ A high-performance intelligent agent built with **LangChain** and **Streamlit** 
 ---
 
 ## 🖼️ Preview
-![AI Search Agent Interface](image_6911c2.png)
+![AI Search Agent Interface](photo.png)
 
 ---
 
